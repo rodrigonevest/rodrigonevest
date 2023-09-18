@@ -5,8 +5,8 @@
 -  📍 Frutal - Minas Gerais
 - 🏫 UEMG - Universidade do Estado de Minas Gerais
 - 📖 Sistemas de Informação
-- 👨 27 Years
-- 📊 Ciências de Dados / Python ❤️‍🔥
+- 👨 28 Years
+- 📊 Python ❤️‍🔥
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-neves-trindade-b98126192/)
