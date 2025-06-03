@@ -5,7 +5,6 @@
 -  📍 Frutal - Minas Gerais
 - 🏫 UEMG - Universidade do Estado de Minas Gerais
 - 📖 Sistemas de Informação
-- 👨 29 Years
 - 📊 Python ❤️‍🔥
 
 
